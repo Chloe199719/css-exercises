@@ -35,10 +35,8 @@ body {
 
 button {
   display: block;
-  text-align: center;
+  margin: auto;
   background: white;
-  padding: 24px;
-  padding-top: 8px;
-  padding-bottom: 8px;
+  padding: 8px 24px;
   border: 1px solid #eee;
 }
